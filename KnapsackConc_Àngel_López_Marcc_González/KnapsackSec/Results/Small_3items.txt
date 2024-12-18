@@ -1,0 +1,11 @@
+  # Parametros: ./Examples/Small_3items.csv 50
+
+    *220 (50) => 2(100:20), 3(120:30), 
+[Knapsack_Recursive] Maximum Profit = 220. Total execution time: 0,002 secs.
+[Knapsack_Recursive] Solution: 220 (50) => 2(100:20), 3(120:30), 
+
+  *120 (30) => 3(120:30), 
+  *180 (40) => 1(60:10), 3(120:30), 
+  *220 (50) => 2(100:20), 3(120:30), 
+[Knapsack_BranchBound] Maximum Profit = 220. Total execution time: 0,000 secs.
+[Knapsack_BranchBound] Solution: 220 (50) => 2(100:20), 3(120:30), 
